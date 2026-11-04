@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime data (SQLite DB + uploaded files + generated handovers)
+data/
+
+# Node
+node_modules/
+*.local
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
